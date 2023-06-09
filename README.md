@@ -11,7 +11,8 @@ If you don’t have time to implement all the features but believe your design w
 feel free to just explain how you would go about implementing them given more time.  
 Use Branch Android/iOS/Wrapper SDK to create a sample app that leverages Branch’s
 Deep Linking technology. You can signup and create a sample app at
-https://dashboard.branch.io/    
+https://dashboard.branch.io/  
+  
 ● An app that deep links users to a specific location inside your app by reading the data
 associated with a Branch Link.  
 ● Ability to trigger events using the Branch SDK inside the app and track these events on
