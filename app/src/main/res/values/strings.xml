@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BranchColorGame</string>
+    <!--tanmay Branchster app keys-->
+    <string name="branch_key">key_live_itdpUi6qRPKcwxS1W3SLOldotElKEGFY</string>
+    <string name="branch_key_test">key_test_hAhnVg5uIGPhwsH976KI4adoDzmNyKLn</string>
+    <string name="your_name">SomeOne</string>
+</resources>
